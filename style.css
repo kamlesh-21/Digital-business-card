@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image {
+    width: 150px;
+}
+
+.card {
+    background: #ddebf8;
+    padding: 20px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 40px auto;
+    border-bottom: 12px solid #c8cdce;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+} 
