@@ -5,6 +5,7 @@ body{
 
 .image {
     width: 150px;
+    border-radius: 180px;
 }
 
 .card {
